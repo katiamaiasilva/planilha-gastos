@@ -2,7 +2,7 @@
 
 Projeto com o objetivo de gerar uma planilha de gastos interativa no Excel. 
 
-[Clique aqui para visualizar]
+[Clique aqui para visualizar](https://github.com/katiamaiasilva/planilha-gastos/blob/8d88f6eed4623eaa4dc5f6fa23f13d7cc4eb9454/Planilha%20Atividade%20DIO.xlsx)
 
 
 ## 👨‍💻 Expert
